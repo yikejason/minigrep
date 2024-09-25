@@ -1,6 +1,6 @@
-## a simple grep tool by rust
+# a simple grep tool by rust
 
-# The mini grep tool contains two features:
+## The mini grep tool contains two features:
 
 1. Input a query string and search some keywords from the contents, you can input this command like this:
 `cargo run -- to poem.txt`
